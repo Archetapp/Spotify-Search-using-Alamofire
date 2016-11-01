@@ -1,0 +1,6 @@
+framework module Pods_Spot {
+  umbrella header "Pods-Spot-umbrella.h"
+
+  export *
+  module * { export * }
+}
